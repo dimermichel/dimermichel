@@ -51,7 +51,6 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, sca
 ### DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -90,7 +89,7 @@ const fullStackDeveloper = {
         backend: ["Java", "Spring", "Node.js"],
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
         cloud: ["AWS"],
-        devops: ["Docker", "Kubernetes", "CI/CD"]
+        devops: ["Docker", "CI/CD"]
     },
     principles: [
         "Clean Code",
