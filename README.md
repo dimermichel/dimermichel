@@ -83,10 +83,10 @@ I'm a passionate **Full Stack Developer** with expertise in building modern, sca
 
 ```javascript
 const fullStackDeveloper = {
-    name: "Michel Dimer",
+    name: "Michel Maia",
     role: "Full Stack Developer",
     expertise: {
-        frontend: ["React", "Angular", "TypeScript"],
+        frontend: [ "Angular", "React", "TypeScript"],
         backend: ["Java", "Spring", "Node.js"],
         databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
         cloud: ["AWS"],
